@@ -23,7 +23,7 @@ En este práctico se abordan operaciones con listas en Python. A lo largo del tr
 
 Este proyecto es solo con fines educativos.
 
-# README.md
+///////////////////////////////////////////////////////////////////////
 
 # Práctico Funciones en Python
 
